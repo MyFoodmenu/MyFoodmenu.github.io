@@ -57,8 +57,8 @@ const Contact = () => {
                 <div>
                   <h3 className="font-bold mb-1">Email Us</h3>
                   <p className="text-muted-foreground text-sm mb-2">For general inquiries and support</p>
-                  <a href="mailto:support@foodexpress.com" className="text-primary hover:underline">
-                    support@foodexpress.com
+                  <a href="mailto:support@myfoodmenu.com" className="text-primary hover:underline">
+                    support@myfoodmenu.com
                   </a>
                 </div>
               </CardContent>

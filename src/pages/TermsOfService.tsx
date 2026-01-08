@@ -12,14 +12,14 @@ const TermsOfService = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">1. Acceptance of Terms</h2>
               <p className="text-muted-foreground">
-                By accessing or using FoodExpress ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, you do not have permission to access the Service. These Terms apply to all visitors, users, and others who access or use the Service.
+                By accessing or using MyFoodMenu ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, you do not have permission to access the Service. These Terms apply to all visitors, users, and others who access or use the Service.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold mb-4">2. Description of Service</h2>
               <p className="text-muted-foreground">
-                FoodExpress is an online food ordering and delivery platform that connects customers with restaurant partners. We facilitate the ordering process and coordinate delivery services. We are an intermediary and are not responsible for the preparation of food by our restaurant partners.
+                MyFoodMenu is an online food ordering and delivery platform that connects customers with restaurant partners. We facilitate the ordering process and coordinate delivery services. We are an intermediary and are not responsible for the preparation of food by our restaurant partners.
               </p>
             </section>
 
@@ -82,7 +82,7 @@ const TermsOfService = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">8. Intellectual Property</h2>
               <p className="text-muted-foreground">
-                The Service and its original content, features, and functionality are owned by FoodExpress and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws. You may not reproduce, distribute, modify, or create derivative works without our express written consent.
+                The Service and its original content, features, and functionality are owned by MyFoodMenu and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws. You may not reproduce, distribute, modify, or create derivative works without our express written consent.
               </p>
             </section>
 
@@ -103,14 +103,14 @@ const TermsOfService = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">10. Limitation of Liability</h2>
               <p className="text-muted-foreground">
-                To the maximum extent permitted by law, FoodExpress shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or other intangible losses, resulting from your use of or inability to use the Service. Our total liability shall not exceed the amount you paid for the specific order giving rise to the claim.
+                To the maximum extent permitted by law, MyFoodMenu shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or other intangible losses, resulting from your use of or inability to use the Service. Our total liability shall not exceed the amount you paid for the specific order giving rise to the claim.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold mb-4">11. Indemnification</h2>
               <p className="text-muted-foreground">
-                You agree to defend, indemnify, and hold harmless FoodExpress and its officers, directors, employees, and agents from any claims, damages, obligations, losses, liabilities, costs, or expenses arising from your use of the Service or violation of these Terms.
+                You agree to defend, indemnify, and hold harmless MyFoodMenu and its officers, directors, employees, and agents from any claims, damages, obligations, losses, liabilities, costs, or expenses arising from your use of the Service or violation of these Terms.
               </p>
             </section>
 
@@ -134,7 +134,7 @@ const TermsOfService = () => {
                 For questions about these Terms of Service, please contact us:
               </p>
               <ul className="list-none space-y-2 text-muted-foreground">
-                <li>📧 Email: legal@foodexpress.com</li>
+                <li>📧 Email: legal@myfoodmenu.com</li>
                 <li>📞 Phone: +1 (555) 123-4567</li>
                 <li>📍 Address: 123 Food Street, Cuisine City, CC 12345</li>
               </ul>

@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <Link to="/" className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🍽️</span>
-              <span className="text-xl font-bold">FoodExpress</span>
+              <span className="text-xl font-bold">MyFoodMenu</span>
             </Link>
             <p className="text-background/70 text-sm">
               Delivering delicious meals from the best restaurants right to your doorstep. Fast, reliable, and always fresh.
@@ -42,7 +42,7 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-2 text-sm text-background/70">
-              <li>📧 support@foodexpress.com</li>
+              <li>📧 support@myfoodmenu.com</li>
               <li>📞 +1 (555) 123-4567</li>
               <li>📍 123 Food Street, Cuisine City</li>
             </ul>
@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-background/20 mt-8 pt-8 text-center text-sm text-background/60">
-          <p>&copy; {currentYear} FoodExpress. All rights reserved.</p>
+          <p>&copy; {currentYear} MyFoodMenu. All rights reserved.</p>
         </div>
       </div>
     </footer>
