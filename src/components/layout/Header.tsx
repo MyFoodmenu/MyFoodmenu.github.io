@@ -26,7 +26,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <span className="text-2xl">🍽️</span>
-            <span className="text-xl font-bold text-gradient">FoodExpress</span>
+            <span className="text-xl font-bold text-gradient">MyFoodMenu</span>
           </Link>
 
           {/* Desktop Navigation */}

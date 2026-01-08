@@ -12,7 +12,7 @@ const PrivacyPolicy = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
               <p className="text-muted-foreground mb-4">
-                Welcome to FoodExpress ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and services.
+                Welcome to MyFoodMenu ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and services.
               </p>
               <p className="text-muted-foreground">
                 Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.
@@ -109,7 +109,7 @@ const PrivacyPolicy = () => {
                 If you have questions or concerns about this privacy policy or our data practices, please contact us:
               </p>
               <ul className="list-none space-y-2 text-muted-foreground">
-                <li>📧 Email: privacy@foodexpress.com</li>
+                <li>📧 Email: privacy@myfoodmenu.com</li>
                 <li>📞 Phone: +1 (555) 123-4567</li>
                 <li>📍 Address: 123 Food Street, Cuisine City, CC 12345</li>
               </ul>
